@@ -1,4 +1,4 @@
-# 🛍️ AI Product Intelligence System
+#  AI Product Intelligence System
 ### Gen AI Bootcamp — Day 2 Homework Challenge
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/fashion-ai-product-intelligence/blob/main/notebooks/fashion_ai_product_intelligence.ipynb)
@@ -10,7 +10,7 @@ An AI-powered product intelligence system built on **OpenAI CLIP** embeddings, i
 
 ---
 
-## ✨ Features
+## Features
 
 | Task | What it does |
 |------|-------------|
@@ -20,7 +20,7 @@ An AI-powered product intelligence system built on **OpenAI CLIP** embeddings, i
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Product Images
@@ -43,7 +43,7 @@ CLIP is pre-trained on 400M image-text pairs and maps both modalities into a sha
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### Run on Google Colab (recommended)
 Click the badge above. No local setup needed — GPU is provided free.
@@ -61,7 +61,7 @@ You'll need a Kaggle API token (`kaggle.json`) to download the dataset. Get it f
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fashion-ai-product-intelligence/
@@ -79,7 +79,7 @@ fashion-ai-product-intelligence/
 
 ---
 
-## 🧠 Task Details
+##  Task Details
 
 ### Task 1 — Smart Product Recommendation Engine
 
@@ -126,7 +126,7 @@ Includes an `ipywidgets` interactive search UI built into the notebook.
 
 ---
 
-## 📊 Results
+##  Results
 
 - **Task 1:** Complementary recommendations across 20 article-type pairings; tested on Footwear, Apparel, and Accessories anchors
 - **Task 2:** ~10-30% catalog size reduction on 1000-product sample; threshold tuned empirically via similarity distribution histogram  
@@ -134,7 +134,7 @@ Includes an `ipywidgets` interactive search UI built into the notebook.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Library |
 |-----------|---------|
@@ -147,6 +147,6 @@ Includes an `ipywidgets` interactive search UI built into the notebook.
 
 ---
 
-## 📄 License
+##  License
 
 MIT
